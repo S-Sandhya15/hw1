@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+header
+{
+    background-color: grey;
+    padding: 15px;
+}
+nav{
+     background-color: plum;
+    padding: 10px;
+}
+main{
+     background-color: yellow;
+    padding: 15px;
+}
+footer{
+     background-color: pink;
+    padding: 12px;
+    text-align: center;
+}
+li{
+     
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: skyblue;
+}
+p{
+    line-height: 1.4;
+}
